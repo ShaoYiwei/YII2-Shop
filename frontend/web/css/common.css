@@ -1,0 +1,41 @@
+/* General body settings */
+body {
+    color: #3e4d5c;
+    direction: ltr;
+    font: 400 13px 'Open Sans', Arial, sans-serif;
+    background: #f9f9f9;
+    overflow-x: hidden;
+}
+
+/*********************
+ GENERAL UI COLORS
+*********************/
+
+/***
+Colors
+***/
+.color-red { color: #e02222;}
+.color-blue { color: #0da3e2;}
+.color-grey { color: #555555;}
+.color-green { color: #35aa47;}
+.color-yellow { color: #ffb848;}
+.color-purple { color: #852b99;}
+.color-light-red { color: #ff5400;}
+.color-light-blue { color: #bfd5fa;}
+.color-light-grey { color: #fafafa;}
+.color-light-green { color: #78df1d;}
+
+/*********************
+ GENERAL RESET & SETUP
+*********************/
+
+/***
+General typography
+***/
+h1, h2, h3, h4, h5, h6 {
+    font: 23px 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
